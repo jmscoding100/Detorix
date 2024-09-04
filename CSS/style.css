@@ -1,0 +1,18 @@
+/* using margin padding float to design template */
+
+:root{
+    --font1: "Oswald", sans-serif;
+    --prim: #131f2b;
+    --sec: #ff8803;
+    --ter: #f5f5f7;
+    --btnColor: #21324e;
+    --date1: #be853e;
+    --date2: #bc6142;
+    --date3: #bb435e;
+    --footerSec2: #0b1016;
+    --grad: radial-gradient(
+        top center,
+        #38587e,
+        #031620
+    );
+}
